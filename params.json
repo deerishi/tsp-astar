@@ -1,0 +1,6 @@
+{
+  "name": "Travelling Salesman using Astar Search C++",
+  "tagline": "This code solves the Travelling Salesman Problem using Astar Search. Minimum Spanning Tree Heuristic was used to estimate the remaining distance from one city to the last.",
+  "body": "This code solves the Travelling Salesman Problem using Astar Search. Minimum Spanning Tree Heuristic was used to estimate the remaining distance from one city to the last.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
